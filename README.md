@@ -1,29 +1,11 @@
 # Personal Website
 
-Github repo for my personal website on neocities written in only HTML and CSS.
+Github repo for my [personal indie website](https://thetransgenderdevil.neocities.org/) on neocities written in only HTML, CSS, and JS.
 
-Website: [elli's web world](https://thetransgenderdevil.neocities.org/)
+## To Do List
 
-## Web Pages
-
-So far, there are only a few pages on my website.
-
-### Home Page
-
-This page hosts the video of the month, changelog, links to other pages, and my blinkies, buttons, badges, etc.
-
-### Video Archive
-
-This is for videos of the month that were prevoiusly on the home page.
-
-### Rants
-
-A page for my unfiltered thoughts and is updated whenever I need to get stuff off my chest.
-
-### Blog
-
-For life updates and website updates mostly.
-
-### Shrines
-
-Shrines are pages for my niche interests. So far, there are four shrines which can all be found on the home page.
+- [ ] Finish Homepage
+- [ ] Make digital shrines for my interests
+- [ ] Make pages to show off my writing
+- [ ] Make pages for game development projects
+- [ ] Make art gallery pages
