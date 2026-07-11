@@ -4,8 +4,8 @@ Github repo for my [personal indie website](https://thetransgenderdevil.neocitie
 
 ## To Do List
 
-- [ ] Finish Homepage
-- [ ] Make digital shrines for my interests
-- [ ] Make pages to show off my writing
+- [ ] Finish homepage
+- [ ] Make pages to show my writing
 - [ ] Make pages for game development projects
-- [ ] Make art gallery pages
+- [ ] Make pages for my little artworks
+- [ ] Make a contact form
